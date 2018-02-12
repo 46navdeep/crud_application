@@ -1,0 +1,18 @@
+{
+  "name": "task",
+  "version": "0.0.1",
+  "description": "A CRUD Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.4",
+    "morgan": "^1.9.0",
+    "save": "^2.3.2"
+  }
+}
